@@ -9,7 +9,7 @@ var x= name[0].toString()+ name[2]+ name[3]
     println(t)
 
     var s=word("Zawadi")
-    println(s.count())
+    println(s.length)
 
     var m=identify("Ephraim")
 
