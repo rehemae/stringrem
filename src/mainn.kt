@@ -1,6 +1,5 @@
 fun main(){
-
-
+var name= "Campus"
 var name= "Godana"
 var x= name[0].toString()+ name[2]+ name[3]
     println(x)
