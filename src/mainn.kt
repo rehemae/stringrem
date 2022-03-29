@@ -1,7 +1,6 @@
 fun main(){
-
-
 var name= "Campus"
+var name= "Godana"
 var x= name[0].toString()+ name[2]+ name[3]
     println(x)
 
@@ -31,3 +30,5 @@ fun identify(name: String){
     else
         println("I don't know who that is")
 }
+
+you did it rehema well done
