@@ -1,7 +1,7 @@
 fun main(){
 
 
-var name= "AkiraChix"
+var name= "codeHive"
 var x= name[0].toString()+ name[2]+ name[3]
     println(x)
 
