@@ -11,7 +11,7 @@ var x= name[0].toString()+ name[2]+ name[3]
     var s=word("Zawadi")
     println(s.length)
 
-    var m=identify("Ephraim")
+    var m=identify("Wambui")
 
 }
 fun parameter(x:String, y: Int):String{
